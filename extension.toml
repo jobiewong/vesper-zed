@@ -1,0 +1,7 @@
+id = "vesper"
+name = "Vesper"
+version = "1.0.0"
+schema_version = 1
+authors = ["Jobie Wong <jobietsy@gmail.com>", "Rauno Freiberg <https://twitter.com/raunofreiberg>", "Samuel D. <https://x.com/samueldsr8>"]
+description = "Ports of the VSCode Vesper and Vesper Light themes"
+repository = "https://github.com/your-name/my-zed-extension"
