@@ -7,7 +7,7 @@
 
 ## About
 
-A simple port of the [Vesper](https://github.com/raunofreiberg/vesper) and [Vesper Light](https://github.com/samueldsr99/vesper-light) themes for Zed.
+A simple port of the [Vesper](https://github.com/raunofreiberg/vesper) and [Vesper Light](https://github.com/samueldsr99/vesper-light) themes for Zed. Credit goes to the original authors, [Rauno Freiberg](https://github.com/raunofreiberg) and [samueldr99](https://github.com/samueldsr99).
 
 ## Usage
 
