@@ -1,11 +1,13 @@
 <p align="center">
     <img src="https://github.com/jobiewong/vesper-zed/raw/main/assets/vesper-logomark.png" width="80" />
-    <h2 align="center">Rosé Pine for Zed</h2>
+    <h2 align="center">Vesper for Zed</h2>
 </p>
 
 <p align="center">Minimilist peppermint and orange theme for Zed</p>
 
-This is a simple port of the [Vesper](https://github.com/raunofreiberg/vesper) and [Vesper Light](https://github.com/samueldsr99/vesper-light) themes for Zed.
+## About
+
+A simple port of the [Vesper](https://github.com/raunofreiberg/vesper) and [Vesper Light](https://github.com/samueldsr99/vesper-light) themes for Zed.
 
 ## Usage
 
@@ -24,5 +26,5 @@ To enable light and dark mode switching based on system settings, you can use th
 
 ## Gallery
 
-![Vesper Dark editor preview](https://github.com/jobiewong/vesper-zed/raw/main/assets/preview-dark.png)
-![Vesper Light editor preview](https://github.com/jobiewong/vesper-zed/raw/main/assets/preview-light.png)
+![Vesper Dark editor preview](https://raw.githubusercontent.com/jobiewong/vesper-zed/refs/heads/main/assets/vesper-dark.png)
+![Vesper Light editor preview](https://raw.githubusercontent.com/jobiewong/vesper-zed/refs/heads/main/assets/vesper-light.png)
