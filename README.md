@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">Minimilist peppermint and orange theme for Zed</p>
+[![Zed Extension](https://img.shields.io/badge/-Zed_Extension-blue?style=flat&logo=zedindustries&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23111111&color=%23084CCF)](https://zed.dev/extensions/vesper)
 
 ## About
 
