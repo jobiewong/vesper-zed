@@ -5,10 +5,6 @@
 
 <p align="center">Minimilist peppermint and orange theme for Zed</p>
 
-<p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Zed_Extension-blue?style=flat&logo=zedindustries&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23111111&color=%23084CCF&link=https%3A%2F%2Fzed.dev%2Fextensions%2Fvesper">
-</p>
-
 ## About
 
 A simple port of the [Vesper](https://github.com/raunofreiberg/vesper) and [Vesper Light](https://github.com/samueldsr99/vesper-light) themes for Zed. Credit goes to the original authors, [Rauno Freiberg](https://github.com/raunofreiberg) and [samueldr99](https://github.com/samueldsr99).
